@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# react-website-smooth-scroll-yt
+
+You can watch the tutorial for this app on https://youtu.be/Nl54MJDR2p8
