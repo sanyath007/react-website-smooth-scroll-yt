@@ -1,4 +1,5 @@
 import React from 'react'
+import { animateScroll as scroll } from 'react-scroll'
 import {
   FooterContainer,
   FooterWrap,
@@ -64,7 +65,7 @@ const Footer = () => {
 
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to='/'>
+            <SocialLogo to='/' onClick={scroll.scrollToTop}>
               dolla
             </SocialLogo>
             <WebsiteRights>dolla © { new Date().getFullYear() } All rights reserved.</WebsiteRights>
