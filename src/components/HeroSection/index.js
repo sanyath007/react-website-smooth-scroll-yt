@@ -31,13 +31,13 @@ const HeroSection = () => {
         </HeroP>
         <HeroBtnWrapper>
           <Button
-            to='signup'
+            to="signup"
             onMouseEnter={onHover}
             onMouseLeave={onHover}
-            primary={true}
-            big={true}
-            dark={false}
-            fontBig={true}
+            primary="true"
+            big="true"
+            dark="false"
+            fontBig="true"
           >
             Get Started {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
