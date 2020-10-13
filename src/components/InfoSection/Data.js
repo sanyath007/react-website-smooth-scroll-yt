@@ -16,13 +16,13 @@ export const homeObjOne = {
 }
 
 export const homeObjTwo = {
-  id: 'about',
+  id: 'discover',
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
   topLine: 'Unlimited Access',
-  headline: 'Unlimited Transactions with zero fees',
-  description: 'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees.',
+  headline: 'Log in to your account at any time',
+  description: 'We have you coverd no metter where you are located. All you need is an internet connection and a phone or computer.',
   buttonLabel: 'Learn More',
   imgStart: true,
   img: require('../../images/svg-2.svg'),
@@ -33,7 +33,7 @@ export const homeObjTwo = {
 }
 
 export const homeObjThree = {
-  id: 'about',
+  id: 'signup',
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
